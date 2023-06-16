@@ -48,6 +48,27 @@ kyike-ကြိုက်
 kyate-ကြိတ်,ကျိတ်
 kyite-ကြိုက်
 kit-ကစ်
+kik-ကစ်
+kick-ကစ်
+koe-ကိုး
+kont-ကွန့်
+kulu-ကူးလူး
+com-ကွန်
+computer-ကွန်ပျူတာ
+kway-ကွေး,ကွေ
+kwa-ကွ
+kyin-ကျဉ်,ကျင်
+kyoke-ကျုပ်
+kae-ကဲ့
+kar-ကာ
+kan-ကန်,ကန်း,ကံ
+kam-ကမ်း
+kay-ကေ
+k-ကေ
+ki-ကီ
+key-ကီး
+kay-ကေး
+kak-ကက်,ကပ်,ကတ်
 --- END OF က ---
 kuu-ကူး,ခူး
 khu-ခု
@@ -73,6 +94,7 @@ khote-ခုပ်,ခုတ်
 khew-ခူး
 khwt-ခွက်
 khk-ခက်
+khat-ခပ်,ခတ်
 khit-ခစ်,ခေတ်
 kht-ခစ်,ခေတ်
 kho-ခို
@@ -88,6 +110,37 @@ chan-ချမ်း
 chn-ချမ်း
 chit-ချစ်
 chi-ချိ
+cheese-ချိစ်
+chee-ချီး
+chong-ချောင်
+chet-ချက်,ချပ်
+chat-ချက်,ချပ်
+cat-ကပ်
+cut-ကပ်
+ce-ဆီ,စီ
+cee-စီး,ဆီး
+caw-စော
+cin-ဆင်
+couk-ကောက်
+can-ကန်
+con-ကွန်
+chouk-ခြောက်
+chuk-ချွတ်
+chin-ချဉ်,ချင်း
+choe-ချိုး
+chow-ချောင်း
+chaw-ချော
+chw-ချော
+chu-ချူ
+chue-ချူး
+c-ဆီ,စီ
+chut-ချွတ်
+chon-ချွန်,ချွန်း
+cho-ချို
+kho-ခို
+khao-ခေါင်
+seven-ခုနှစ်
+khu-ခု
 --- END OF ခ ---
 
 
